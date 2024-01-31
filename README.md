@@ -10,9 +10,20 @@
 
 # Skill
 ## Language
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white)
+![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## Tool
+### Development Tool
+![unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![visual studio](https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![visual studio code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ### Version Control
+![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ### Communication
+![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 # Toy Project
 ## Game
